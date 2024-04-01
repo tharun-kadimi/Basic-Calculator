@@ -28,7 +28,9 @@ background: rgba(154, 153, 153, 0.17);
 font-size: 65px;
 text-align: center;
 }
-
+/* .calculator div {
+    flex-wrap: nowrap;
+} */
 input{
 padding: 10px;
 margin: 5px;
@@ -86,4 +88,18 @@ button:hover{
 
 .equalBtn{
 background:#f67c14 ;
+}
+.calculator input{
+    text-align: right;
+    
+}
+
+ @media screen and (max-width:480px){
+    .calculator{
+        width: 85%;
+        margin: 5% auto;
+        height: 90vh;
+
+    }
+    
 }
