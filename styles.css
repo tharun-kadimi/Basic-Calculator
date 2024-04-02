@@ -94,7 +94,7 @@ background:#f67c14 ;
     
 }
 
- @media screen and (max-width:480px){
+ /* @media screen and (max-width:480px){
     .calculator{
         width: 85%;
         margin: 5% auto;
@@ -102,4 +102,17 @@ background:#f67c14 ;
 
     }
     
+} */
+@media only screen and (max-width: 480px) {
+   
+    
+    .calculator {
+        padding: 10px;
+    }
+    .button{
+        width: 20px;
+height: 20px;
+margin: 5px;
+
+    }
 }
