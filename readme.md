@@ -37,7 +37,7 @@ If you'd like to contribute to the Calculator Website, follow these steps:
 
 ## Credits
 
-This project was created by Tharun Kadimi. Feel free to contact me at tharunkadimi13@example.com for any questions or feedback.
+This project was created by Tharun Kadimi. Feel free to contact me at tharunkadimi13@gmail.com for any questions or feedback.
 
 <!-- ## License
 
